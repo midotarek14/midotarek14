@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Co-Founder @ Amrix<br>💻 Full-Stack Developer & Builder<br>🛠️ JavaScript • TypeScript • Python • C/C++<br>🌱 Always learning, building & experimenting<br>🤝 Open to collaboration<br>⚡ Turning ideas into real products
+🚀 Co-Founder @ Amrix<br>💻 Full-Stack Developer & Builder<br>🛠️ JavaScript • TypeScript • Python • C/C++<br>🌱 Always learning, building & experimenting<br>🤝 Open to collaboration<br>⚡ Turning ideas into real products<br>🫩 Eyouth hater
 
 
 ## 🌐 Socials:
