@@ -51,11 +51,11 @@ I enjoy turning ideas into functional digital products with clean code, thoughtf
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=midotarek14&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=midotarek14&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=midotarek14&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=midotarek14&theme=amidnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=midotarek14&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=midotarek14&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=midotarek14&color=007bff&icon=eye)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=midotarek14&color=midnight-purple&icon=eye)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
