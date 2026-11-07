@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 Co-Founder @ Amrix<br>💻 Full-Stack Developer & Builder<br>🛠️ JavaScript • TypeScript • Python • C/C++<br>🌱 Always learning, building & experimenting<br>🤝 Open to collaboration<br>⚡ Turning ideas into real products<br>🫩 Eyouth hater
+🚀 Co-Founder at [Amrix](https://github.com/amrix-eg)<br>💻 Full-Stack Developer & Builder<br>🛠️ JavaScript • TypeScript • Python • C/C++<br>🌱 Always learning, building & experimenting<br>🤝 Open to collaboration<br>⚡ Turning ideas into real products<br>🫩 Eyouth hater
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.tarek.aboebead) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedtarek_106) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmedtarek_106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.aboebead2060@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=vercel&logoColor=white)](https://midotarek.vercel.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.tarek.aboebead) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedtarek_106) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1416063343252471910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tarek-abo-ebeed-27954b388/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmedtarek_106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.aboebead2060@gmail.com) 
 
 # 💻 Tech Stack:
 
