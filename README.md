@@ -1,5 +1,5 @@
-# 💜 Hey, I'm Ahmed Tarek
-## 💻 Full-Stack Developer | 🚀 Digital Product Builder
+## 💜 Hey, I'm Ahmed Tarek
+### 💻 Full-Stack Developer | 🚀 Digital Product Builder
 I'm a Full-Stack Developer passionate about building modern websites, powerful Discord bots, and creative portfolio experiences.
 
 I enjoy turning ideas into functional digital products with clean code, thoughtful design, and attention to detail.
