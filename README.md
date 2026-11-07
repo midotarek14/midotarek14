@@ -56,6 +56,6 @@ I enjoy turning ideas into functional digital products with clean code, thoughtf
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=midotarek14&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=midotarek14&color=midnight-purple&icon=eye)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=midotarek14&color=purple&icon=eye)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
