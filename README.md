@@ -1,5 +1,16 @@
-# 💫 About Me:
-🚀 Co-Founder at [**Amrix**](https://github.com/amrix-eg)<br>💻 Full-Stack Developer & Builder<br>🛠️ JavaScript • TypeScript • Python • C/C++<br>🌱 Always learning, building & experimenting<br>🤝 Open to collaboration<br>⚡ Turning ideas into real products<br>🫩 Eyouth hater
+# 💜 Hey, I'm Ahmed Tarek
+## 💻 Full-Stack Developer | 🚀 Digital Product Builder
+I'm a Full-Stack Developer passionate about building modern websites, powerful Discord bots, and creative portfolio experiences.
+
+I enjoy turning ideas into functional digital products with clean code, thoughtful design, and attention to detail.
+
+- **🚀 Co-Founder at [Amrix](https://github.com/amrix-eg)**
+- 💻 Full-Stack Developer & Builder
+- 🛠️ JavaScript • TypeScript • Python • C/C++
+- 🌱 Always learning, building & experimenting
+- 🤝 Open to collaboration
+- ⚡ Turning ideas into real products
+- 🫩 Eyouth hater
 
 
 ## 🌐 Socials:
